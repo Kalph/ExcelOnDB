@@ -1,8 +1,8 @@
 ## 목차 
-* [Algospot](#algospot) <br/>
-* [백준 알고리즘](#백준-알고리즘-) <br/>
-* [프로그래머스](#프로그래머스) <br/>
-* [풀지 못한 문제](#풀지-못한-문제)<br/>
+* [설명설치](#설명설치) <br/>
+* [파일 읽어들이기](#파일-읽어들이기) <br/>
+* [pymssql, xlrd 사용하기](#pymssql-xlrd-사용하기) <br/>
+* [기타 알고리즘](#기타-알고리즘)<br/>
 
 <br>
 
@@ -37,7 +37,7 @@ pymssql 설치 시 오류가 발생할 수 있는데 여기를 참고한다.
 
  
 ### python pymssql 오류
-pip install pymssql 문제 시 [여기](https://blog.naver.com/PostView.nhn?blogId=kjskhj04366&logNo=221828675761&categoryNo=7&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)를 클릭한다
+pip install pymssql 문제 시 [여기](https://blog.naver.com/PostView.nhn?blogId=kjskhj04366&logNo=221828675761&categoryNo=7&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1) 를 클릭한다
 
 ​
 
