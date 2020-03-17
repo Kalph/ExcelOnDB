@@ -37,7 +37,7 @@ pymssql 설치 시 오류가 발생할 수 있는데 여기를 참고한다.
 
  
 ### python pymssql 오류
-pip install pymssql 문제 시 [여기](https://blog.naver.com/PostView.nhn?blogId=kjskhj04366&logNo=221828675761&categoryNo=7&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)<br/>를 클릭한다
+pip install pymssql 문제 시 [여기](https://blog.naver.com/PostView.nhn?blogId=kjskhj04366&logNo=221828675761&categoryNo=7&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)를 클릭한다
 
 ​
 
